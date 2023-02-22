@@ -19,7 +19,7 @@ You could:
 
 * Use [glitch](https://glitch.com/) to experiment with it directly in your browser - Select `New Project` -> `Import from Github` and paste the URL for this project: `https://github.com/alicelieutier/minimal-html-starter`
 
-* Download the files on your computer. On github, select `Code` -> `Download Zip`. Once you have the files, you can open `index.html` directly in your borwser. If you want to have some javascript making API calls, however, you may need to run a local server. The easiest way is to [run one of these lines in the terminal](https://gist.github.com/willurd/5720255) from the directory where `index.html` is.
+* Download the files on your computer. On github, select `Code` -> `Download Zip`. Once you have the files, you can open `index.html` directly in your browser. If you want to have some javascript making API calls, however, you will need to run a local server. The easiest way is to [run one of these lines in the terminal](https://gist.github.com/willurd/5720255) from the directory where `index.html` is.
 
 Once you are able to see the webpage in your browser, change the files to see how it changes.
 
